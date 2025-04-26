@@ -1,9 +1,4 @@
 import React from 'react';
+import { app } from './app/App';
 
-export default function App(){
-    return (
-        <div className="min-h-screen">
-            App Template
-        </div>
-    )
-}
+export default app;
